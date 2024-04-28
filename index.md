@@ -1,5 +1,9 @@
 # ANAEL BARBOSA SILVA
 
+**Fullstack Web Developer** 
+
+Técnico em Informática para Internet em IFRN SPP
+
 ## CONTATO
 
 [![Gmail](https://img.shields.io/badge/-anael.noki@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor)](mailto:anael.noki@gmail.com)
